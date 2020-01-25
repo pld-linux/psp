@@ -1,7 +1,6 @@
 # TODO
 # - webserver integration
 # - it doesn't find any perl deps due compiled code
-%include	/usr/lib/rpm/macros.perl
 Summary:	The Perl Script Pages Engine
 Name:		psp
 Version:	0.7
